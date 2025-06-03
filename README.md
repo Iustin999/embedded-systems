@@ -1,4 +1,4 @@
-## 🤖 Embedded Projects
+## Embedded Projects
 
 | Project | Description | Documentation | Preview |
 |--------|-------------|---------------|---------|
