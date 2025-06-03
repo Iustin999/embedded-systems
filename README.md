@@ -1,8 +1,7 @@
 ## 🤖 Embedded Projects
 
-| Project | Description | Preview |
-|--------|-------------|---------|
-| [Obstacle Avoidance Robot](./Obstacle%20avoidance%20%26%20Follow%20me%20Robot) | Autonomous robot avoiding obstacles using ultrasonic sensors | ![img](./Obstacle%20avoidance%20%26%20Follow%20me%20Robot/screenshot.jpg) |
-| [Smart Parking System](./Smart%20Parking%20System%20using%20IoT) | IR sensors + ESP32 + mobile app for real-time parking monitoring | ![img](./Smart%20Parking%20System%20using%20IoT/parking.jpg) |
-| [Noise Level Monitor](./Noise%20level%20measurement%20system) | Microphone + ESP32 for ambient sound level tracking | ![img](./Noise%20level%20measurement%20system/screenshot.jpg) |
-| [Maze Solver Robot](./Maze-solver%20Robot) | Line-following and decision-making robot for solving mazes | ![img](./Maze-solver%20Robot/maze.jpg) |
+| Project | Description | Documentation | Preview |
+|--------|-------------|---------------|---------|
+| [Maze Solver Robot](https://github.com/iustin999/maze-solver) | Robot that navigates mazes using only one distance sensor and rotating servos. Speed-based logic for efficient solving. | _Not available_ | ![preview](link_către_imagine) |
+| [Obstacle Avoidance & Follow-Me Robot](https://github.com/iustin999/obstacle-follow-robot) | Mobile robot with dual functionality: follows a target or avoids obstacles. | [PDF EN](link_pdf_en) • [PDF RO](link_pdf_ro) | ![preview](link_imagine) |
+| [Noise Level Measurement System](https://github.com/iustin999/noise-measurement) | Analog sensor used to measure noise level and trigger indicators. | [PDF EN](link_pdf_en) • [PDF RO](link_pdf_ro) | ![preview](link_imagine) |
